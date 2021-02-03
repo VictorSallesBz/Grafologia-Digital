@@ -42,7 +42,7 @@ Grafologia Digital é um sistema que identificará o usuário que está digitand
 O sistema terá níveis de segurança, deixando o sistema mais rígido ou liberal com as comparações além de um limiar maior ou menor.
 Eu continuo pensando em novas formas de verificação. Sinta-se a vontade em me ajudar :P
 
-## Armazenação da digitação
+## Armazenamento da digitação
 - Para as senhas, será armazenado vetores com os dados de cada etapa de verificação.
 - Os dados da digitação em geral, será em uma matriz onde os índices de linhas e colunas serão o número do caracter na tabela ASCII.
 - Os caracteres das linhas representam a última tecla, enquanto os caracteres das colunas a nova tecla digitada.
