@@ -9,7 +9,7 @@ Grafologia Digital é um sistema que identificará o usuário que está digitand
 
 
 ##### Autenticação
-  - O usuário cadastrará sua senha para armazenar sua maneira de digitação da senha.
+  - O usuário cadastrará sua senha para armazenar sua maneira de digitar a senha.
   
 ##### Escrita Geral
   - O usuário será monitorado o tempo todo com o sistema extraindo seus dados de escrita.
